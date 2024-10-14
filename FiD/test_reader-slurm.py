@@ -4,6 +4,9 @@
 # This source code is licensed under the license found in the
 # LICENSE file in the root directory of this source tree.
 
+"""
+1~100까지 구절을 검사하여 라벨링
+"""
 import torch
 import transformers
 import numpy as np
